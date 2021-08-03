@@ -1,20 +1,23 @@
 # Responsive Club Website
-## Cycling club
+## Makanawe Cycling Club
 ### [You can see the project here]()
+
+<br>
 
 ## **Overview**
 ![screenshot](screenshot.jpeg)
 
 ## **Features and Objectives**
-* A responsive website for 
-* The project should demonstrate many of the responsive design tools: media querys, responsive units, etc.
+* A responsive website for a cycling club named Makanawe.
+* The project should demonstrate many of the responsive design tools: media queries, responsive units, etc.
 * The page topic should be about a club.
 
 ## **Built with**
-* CSS3 - Responsive Tools (Media Query, Responsive Units, etc.)
+* CSS3 - Responsive Tools (Flexbox, Media Query, Responsive Units, etc.)
 * HTML5 - Semantic
 
 ## **Others Tools Used**
 * Git
 * GitHub
-* Visual Studio Code & Bash Shell Terminal
+* Figma for wireframing
+* Visual Studio Code & Bash Shell

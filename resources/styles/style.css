@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+body {
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: azure;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+header h3 {
+    align-self: flex-start;
+    padding: 1rem 0 0 1rem;
+}
+
+header a {
+    color: brown;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+header a:hover {
+    color: rgb(35, 33, 165);
+    text-decoration: underline;
+}
+
+nav a:nth-child(1) {
+    margin-right: 2rem;
+}
+
+footer {
+    background-color: brown;
+    padding: 1rem;
+    padding-left: 2rem;
+    text-align: left;
+    color: azure;
+}
+
+footer:nth-child(3) {
+    margin: 0;
+}
+
+#adventures {
+    margin-top: 5%;
+}
+
+.adventures-places {
+    display: flex;
+}
+
+.adventures-places img {
+    width: 100%;
+    height: 80%;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.adventures-places figcaption {
+    font-size: 1.5rem;
+    margin-top: .8rem;
+    font-weight: 400;
+}
+
+#events img {
+    width: 50%;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+#events h4 {
+    margin: 1.8rem 0;
+    font-size: 1.2rem;
+}
+
+@media screen and (max-width: 520px) {
+    .adventures-places {
+        flex-direction: column;
+    }
+
+    header a {
+        display: block;
+    }
+    nav a:nth-child(1) {
+        margin-right: 0;
+    }
+}
