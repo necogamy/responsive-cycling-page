@@ -17,6 +17,7 @@
 * HTML5 - Semantic
 
 ## **Others Tools Used**
+* Markdown
 * Git
 * GitHub
 * Figma for wireframing
