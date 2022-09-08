@@ -1,6 +1,6 @@
 # Responsive Club Website
 ## Makanawe Cycling Club
-### [You can see the project here](https://necogamy.github.io/responsive-club-page/)
+### [You can see the project here](https://nycolop.github.io/responsive-club-page/)
 
 <br>
 
